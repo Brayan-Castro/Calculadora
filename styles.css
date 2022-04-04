@@ -1,0 +1,13 @@
+* {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tudo {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.a {
+    font-size: 50px;
+}
